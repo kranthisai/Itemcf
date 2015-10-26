@@ -34,7 +34,7 @@ Stage4:
    
 I would like to thank my professor Dr.Mohamed Sarwat for giving me this opportunity to work with him. As part of this project, I reported run time of jobs, intermediate RDDs created, CPU Utilization, Memory Usage of 3 worker nodes.
 
-In case if you have any queries regarding this project or if you have any suggestions to improve this project, please reach out to me at kranthisai.d@gmail.com. I will be happy in assisting you or I will appreciate your contribution to this project. Thank you. Have A Nice Day....
+In case if you have any queries regarding this project or if you have any suggestions to improve this project, please reach out to me at kranthisai.d@gmail.com. I will be happy in assisting you. If you would like to contribute, I will appreciate your contribution. I will be back with even more recommendation systems in Spark and Hadoop. My next project will be on Real Time Recommendation systems on Spatial Data. Thank you. Have A Nice Day....
 
 
 
