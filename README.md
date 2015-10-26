@@ -19,6 +19,7 @@ Method 2: If rating value is in the range from -5 to 5. Then assigning 0 to the 
 I would recommend to go the following link for more information regarding Item Based Collaborative Filtering. http://files.grouplens.org/papers/www10_sarwar.pdf
 
 Spark implementation Summary: 
+
 Stage1 :
     Load the data into RDD. Find list of users,movies using that RDD. Also, create JavaPairRDD ratings, where key is user id. Value is Tuple2<Movie,Rating>
     
